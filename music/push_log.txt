@@ -1,0 +1,140 @@
+10_عمق آگاهی.mp3: 1 file pushed, 0 skipped. 60.4 MB/s (11694108 bytes in 0.185s)
+"Successfully pushed 10_عمق آگاهی.mp3" 
+11_مدیتیشن در طبیعت.mp3: 1 file pushed, 0 skipped. 98.4 MB/s (9252723 bytes in 0.090s)
+"Successfully pushed 11_مدیتیشن در طبیعت.mp3" 
+12_جریان طبیعت.mp3: 1 file pushed, 0 skipped. 832.3 MB/s (2371591 bytes in 0.003s)
+"Successfully pushed 12_جریان طبیعت.mp3" 
+13_آرامش با پیانو.mp3: 1 file pushed, 0 skipped. 52.8 MB/s (4918943 bytes in 0.089s)
+"Successfully pushed 13_آرامش با پیانو.mp3" 
+14_ساحل دریا.mp3: 1 file pushed, 0 skipped. 458.6 MB/s (462561 bytes in 0.001s)
+"Successfully pushed 14_ساحل دریا.mp3" 
+1_آتش.mp3: 1 file pushed, 0 skipped. 78.8 MB/s (14280960 bytes in 0.173s)
+"Successfully pushed 1_آتش.mp3" 
+2_جنگل.mp3: 1 file pushed, 0 skipped. 46.3 MB/s (17982930 bytes in 0.370s)
+"Successfully pushed 2_جنگل.mp3" 
+3_باران.mp3: 1 file pushed, 0 skipped. 17.3 MB/s (7926928 bytes in 0.438s)
+"Successfully pushed 3_باران.mp3" 
+4_باران و رعد و برق.mp3: 1 file pushed, 0 skipped. 30.1 MB/s (12318351 bytes in 0.390s)
+"Successfully pushed 4_باران و رعد و برق.mp3" 
+5_موج آرام.mp3: 1 file pushed, 0 skipped. 36.7 MB/s (16108436 bytes in 0.418s)
+"Successfully pushed 5_موج آرام.mp3" 
+6_دریا.mp3: 1 file pushed, 0 skipped. 71.7 MB/s (14218042 bytes in 0.189s)
+"Successfully pushed 6_دریا.mp3" 
+7_حیران.mp3: 1 file pushed, 0 skipped. 45.4 MB/s (16785877 bytes in 0.353s)
+"Successfully pushed 7_حیران.mp3" 
+8_پرواز.mp3: 1 file pushed, 0 skipped. 58.4 MB/s (10731037 bytes in 0.175s)
+"Successfully pushed 8_پرواز.mp3" 
+9_اکنون.mp3: 1 file pushed, 0 skipped. 51.8 MB/s (16581130 bytes in 0.305s)
+"Successfully pushed 9_اکنون.mp3" 
+10_عمق آگاهی.mp3: 1 file pushed, 0 skipped. 36.1 MB/s (11694108 bytes in 0.309s)
+"Successfully pushed 10_عمق آگاهی.mp3" 
+11_مدیتیشن در طبیعت.mp3: 1 file pushed, 0 skipped. 74.6 MB/s (9252723 bytes in 0.118s)
+"Successfully pushed 11_مدیتیشن در طبیعت.mp3" 
+12_جریان طبیعت.mp3: 1 file pushed, 0 skipped. 811.8 MB/s (2371591 bytes in 0.003s)
+"Successfully pushed 12_جریان طبیعت.mp3" 
+13_آرامش با پیانو.mp3: 1 file pushed, 0 skipped. 924.7 MB/s (4918943 bytes in 0.005s)
+"Successfully pushed 13_آرامش با پیانو.mp3" 
+14_ساحل دریا.mp3: 1 file pushed, 0 skipped. 479.4 MB/s (462561 bytes in 0.001s)
+"Successfully pushed 14_ساحل دریا.mp3" 
+1_آتش.mp3: 1 file pushed, 0 skipped. 64.5 MB/s (14280960 bytes in 0.211s)
+"Successfully pushed 1_آتش.mp3" 
+2_جنگل.mp3: 1 file pushed, 0 skipped. 27.9 MB/s (17982930 bytes in 0.614s)
+"Successfully pushed 2_جنگل.mp3" 
+3_باران.mp3: 1 file pushed, 0 skipped. 42.5 MB/s (7926928 bytes in 0.178s)
+"Successfully pushed 3_باران.mp3" 
+4_باران و رعد و برق.mp3: 1 file pushed, 0 skipped. 31.0 MB/s (12318351 bytes in 0.379s)
+"Successfully pushed 4_باران و رعد و برق.mp3" 
+5_موج آرام.mp3: 1 file pushed, 0 skipped. 51.8 MB/s (16108436 bytes in 0.297s)
+"Successfully pushed 5_موج آرام.mp3" 
+6_دریا.mp3: 1 file pushed, 0 skipped. 80.3 MB/s (14218042 bytes in 0.169s)
+"Successfully pushed 6_دریا.mp3" 
+7_حیران.mp3: 1 file pushed, 0 skipped. 50.2 MB/s (16785877 bytes in 0.319s)
+"Successfully pushed 7_حیران.mp3" 
+8_پرواز.mp3: 1 file pushed, 0 skipped. 59.5 MB/s (10731037 bytes in 0.172s)
+"Successfully pushed 8_پرواز.mp3" 
+now.mp3: 1 file pushed, 0 skipped. 56.4 MB/s (16581130 bytes in 0.281s)
+"Successfully pushed now.mp3" 
+10_عمق آگاهی.mp3: 1 file pushed, 0 skipped. 33.9 MB/s (11694108 bytes in 0.329s)
+"Successfully pushed 10_عمق آگاهی.mp3" 
+11_مدیتیشن در طبیعت.mp3: 1 file pushed, 0 skipped. 47.4 MB/s (9252723 bytes in 0.186s)
+"Successfully pushed 11_مدیتیشن در طبیعت.mp3" 
+12_جریان طبیعت.mp3: 1 file pushed, 0 skipped. 667.2 MB/s (2371591 bytes in 0.003s)
+"Successfully pushed 12_جریان طبیعت.mp3" 
+13_آرامش با پیانو.mp3: 1 file pushed, 0 skipped. 727.4 MB/s (4918943 bytes in 0.006s)
+"Successfully pushed 13_آرامش با پیانو.mp3" 
+14_ساحل دریا.mp3: 1 file pushed, 0 skipped. 489.5 MB/s (462561 bytes in 0.001s)
+"Successfully pushed 14_ساحل دریا.mp3" 
+1_آتش.mp3: 1 file pushed, 0 skipped. 12.2 MB/s (14280960 bytes in 1.120s)
+"Successfully pushed 1_آتش.mp3" 
+2_جنگل.mp3: 1 file pushed, 0 skipped. 27.1 MB/s (17982930 bytes in 0.634s)
+"Successfully pushed 2_جنگل.mp3" 
+3_باران.mp3: 1 file pushed, 0 skipped. 41.8 MB/s (7926928 bytes in 0.181s)
+"Successfully pushed 3_باران.mp3" 
+4_باران و رعد و برق.mp3: 1 file pushed, 0 skipped. 33.8 MB/s (12318351 bytes in 0.348s)
+"Successfully pushed 4_باران و رعد و برق.mp3" 
+5_موج آرام.mp3: 1 file pushed, 0 skipped. 28.7 MB/s (16108436 bytes in 0.536s)
+"Successfully pushed 5_موج آرام.mp3" 
+6_دریا.mp3: 1 file pushed, 0 skipped. 17.3 MB/s (14218042 bytes in 0.783s)
+"Successfully pushed 6_دریا.mp3" 
+7_حیران.mp3: 1 file pushed, 0 skipped. 20.2 MB/s (16785877 bytes in 0.793s)
+"Successfully pushed 7_حیران.mp3" 
+8_پرواز.mp3: 1 file pushed, 0 skipped. 24.8 MB/s (10731037 bytes in 0.413s)
+"Successfully pushed 8_پرواز.mp3" 
+now.mp3: 1 file pushed, 0 skipped. 18.9 MB/s (16581130 bytes in 0.836s)
+"Successfully pushed now.mp3" 
+adb: error: target 'آگاهی.mp3.mp3' is not a directory
+"Successfully pushed 10_عمق آگاهی.mp3" 
+adb: error: target 'طبیعت.mp3.mp3' is not a directory
+"Successfully pushed 11_مدیتیشن در طبیعت.mp3" 
+adb: error: target 'طبیعت.mp3.mp3' is not a directory
+"Successfully pushed 12_جریان طبیعت.mp3" 
+adb: error: target 'پیانو.mp3.mp3' is not a directory
+"Successfully pushed 13_آرامش با پیانو.mp3" 
+adb: error: target 'دریا.mp3.mp3' is not a directory
+"Successfully pushed 14_ساحل دریا.mp3" 
+1_آتش.mp3: 1 file pushed, 0 skipped. 37.1 MB/s (14280960 bytes in 0.367s)
+"Successfully pushed 1_آتش.mp3" 
+2_جنگل.mp3: 1 file pushed, 0 skipped. 15.5 MB/s (17982930 bytes in 1.105s)
+"Successfully pushed 2_جنگل.mp3" 
+3_باران.mp3: 1 file pushed, 0 skipped. 49.0 MB/s (7926928 bytes in 0.154s)
+"Successfully pushed 3_باران.mp3" 
+adb: error: target 'برق.mp3.mp3' is not a directory
+"Successfully pushed 4_باران و رعد و برق.mp3" 
+adb: error: target 'آرام.mp3.mp3' is not a directory
+"Successfully pushed 5_موج آرام.mp3" 
+6_دریا.mp3: 1 file pushed, 0 skipped. 19.4 MB/s (14218042 bytes in 0.699s)
+"Successfully pushed 6_دریا.mp3" 
+7_حیران.mp3: 1 file pushed, 0 skipped. 19.9 MB/s (16785877 bytes in 0.804s)
+"Successfully pushed 7_حیران.mp3" 
+8_پرواز.mp3: 1 file pushed, 0 skipped. 29.0 MB/s (10731037 bytes in 0.353s)
+"Successfully pushed 8_پرواز.mp3" 
+now.mp3: 1 file pushed, 0 skipped. 23.4 MB/s (16581130 bytes in 0.676s)
+"Successfully pushed now.mp3" 
+adb: error: target 'آگاهی.mp3.mp3' is not a directory
+"Successfully pushed 10_عمق آگاهی.mp3" 
+adb: error: target 'طبیعت.mp3.mp3' is not a directory
+"Successfully pushed 11_مدیتیشن در طبیعت.mp3" 
+adb: error: target 'طبیعت.mp3.mp3' is not a directory
+"Successfully pushed 12_جریان طبیعت.mp3" 
+adb: error: target 'پیانو.mp3.mp3' is not a directory
+"Successfully pushed 13_آرامش با پیانو.mp3" 
+adb: error: target 'دریا.mp3.mp3' is not a directory
+"Successfully pushed 14_ساحل دریا.mp3" 
+1_آتش.mp3: 1 file pushed, 0 skipped. 39.9 MB/s (14280960 bytes in 0.342s)
+"Successfully pushed 1_آتش.mp3" 
+2_جنگل.mp3: 1 file pushed, 0 skipped. 18.0 MB/s (17982930 bytes in 0.955s)
+"Successfully pushed 2_جنگل.mp3" 
+3_باران.mp3: 1 file pushed, 0 skipped. 34.0 MB/s (7926928 bytes in 0.223s)
+"Successfully pushed 3_باران.mp3" 
+adb: error: target 'برق.mp3.mp3' is not a directory
+"Successfully pushed 4_باران و رعد و برق.mp3" 
+adb: error: target 'آرام.mp3.mp3' is not a directory
+"Successfully pushed 5_موج آرام.mp3" 
+6_دریا.mp3: 1 file pushed, 0 skipped. 31.2 MB/s (14218042 bytes in 0.435s)
+"Successfully pushed 6_دریا.mp3" 
+7_حیران.mp3: 1 file pushed, 0 skipped. 18.0 MB/s (16785877 bytes in 0.889s)
+"Successfully pushed 7_حیران.mp3" 
+8_پرواز.mp3: 1 file pushed, 0 skipped. 26.6 MB/s (10731037 bytes in 0.384s)
+"Successfully pushed 8_پرواز.mp3" 
+now.mp3: 1 file pushed, 0 skipped. 13.1 MB/s (16581130 bytes in 1.204s)
+"Successfully pushed now.mp3" 

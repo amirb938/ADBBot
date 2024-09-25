@@ -1,7 +1,5 @@
 @echo off
 
-REM Connect to the Android device
-adb connect 192.168.241.27
 
 REM Get the device ID
 setlocal enabledelayedexpansion
